@@ -1,11 +1,12 @@
 # What is this?
-The beginning of a collection of Raspberry Pi power-related modules.
 
-ATX is a circuit that allows a single button to turn on and latch a standard ATX computer power supply.
-Another press of the button will signal the Pi the user's intent to shut down, and it will gracefully do so and then shut down the power supply.
+An experiment for an inexpensive programming PWM generator.
 
-Obviously, the Raspberry Pi can be used for its main function while on, this doesn't take up the entire codebase or anything.
+A shift register turns on and off a set of resistors that control a 555. Using a lookup table, to latch in certain resistances, it should be possible to create a set-and-forget channel that is basically infinitely extendable.
+
+BOM cost for one channel is about 10 cents.
 
 
+One of the methods, a standard R-2R resistor ladder can only reach about 5 bits of accuracy before standard 10% resistor tolerances kill it.
 
-See http://jrainimo.com/build/?p=730
+A (potentially) more clever way of doing it is to use a variety of resistor values pulled high or low and then a lookup table to approximate good values. Some day....
