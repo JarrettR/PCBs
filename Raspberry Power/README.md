@@ -10,6 +10,11 @@ Obviously, the Raspberry Pi can be used for its main function while on, this doe
 UPS is a simple uninterreptable power supply based on some 10F supercaps I have kicking around.
 http://www.digikey.com/product-detail/en/ESHSR-0010C0-002R7/589-1002-ND/946802
 
+Original schematic:
+http://www.hackerspace-ffm.de/wiki/index.php?title=Raspi_EDLC_UPS
+
+I will probably tweak it until it is good, eventually. The current design has a few serious drawbacks (as acknowledged by the original author).
+
 When the input voltage is lower voltage than the cap voltage, one of the GPIO pins is set high, signalling "shut down NOW" to the RPi.
 Some back of the envelope calculations put the time-to-discharge time of the caps at about 7 seconds. That's kinda low, but this footprint is shared by other, larger supercaps, if I want to spend a little money.
 
