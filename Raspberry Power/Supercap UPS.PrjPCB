@@ -66,6 +66,10 @@ GenerateClassCluster=0
 DocumentPath=Project Outputs for Supercap UPS\Design Rule Check - UPS.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Supercap UPS\Import Error Report - UPS.html
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
