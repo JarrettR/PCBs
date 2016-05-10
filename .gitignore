@@ -5,3 +5,54 @@
 History
 Project Logs for *
 Project Outputs for *
+
+# Object files
+*.o
+*.ko
+*.obj
+production\*.elf
+production\*.hex
+Firmware/mla/*
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+
+# Debug files
+*.dSYM/
+
+# PIC specific
+funclist
+*.p1
+*.pre
+*.d
+*.sdb
+*.map
+*.obj
+*.rlf
+*.sym
+*.hxl
+*.cmf
+*.lst
+*.mum
+*.xml
+*/dist/*
