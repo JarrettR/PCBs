@@ -1,0 +1,6 @@
+[submodule "Altium/scripts-libraries"]
+	path = Altium/scripts-libraries
+	url = https://github.com/altium-designer-addons/scripts-libraries
+[submodule "Altium/AltiumDesigner_PcbLibrary"]
+	path = Altium/AltiumDesigner_PcbLibrary
+	url = https://github.com/KitSprout/AltiumDesigner_PcbLibrary
