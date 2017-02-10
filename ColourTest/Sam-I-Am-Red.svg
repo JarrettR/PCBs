@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="179"
+   height="285"
+   viewBox="0 0 179 285"
+   sodipodi:docname="Sam-I-Am-Red.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1092"
+     inkscape:window-height="613"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.91547848"
+     inkscape:cx="192.36497"
+     inkscape:cy="138.35633"
+     inkscape:window-x="2219"
+     inkscape:window-y="300"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4138"
+     showguides="false" />
+  <g
+     id="g4138"
+     transform="translate(2.415252,6.0381356)">
+    <path
+       style="fill:#e40001"
+       d="M 125.41797 102.65234 C 124.99232 102.64491 124.55121 102.64567 124.09375 102.6543 C 117.41903 102.78011 108.49456 104.22891 104.29688 105.86719 C 100.70682 107.2683 97.416016 111.71981 97.416016 115.17383 C 97.416016 120.57778 101.73675 122.83112 110.73047 122.11719 C 116.61103 121.65038 120.02936 126.67128 117.79492 132.49414 C 116.83571 134.9938 111.64614 137.21066 107.58203 136.85742 C 104.39012 136.57999 103.87352 136.8407 103.58594 138.87109 C 103.04058 142.72158 106.03956 145.03906 111.57031 145.03906 C 114.0325 145.03906 115.47286 145.20044 116.03516 145.63086 L 118.55469 144.85547 C 118.18014 143.90995 120.0492 139.34169 121.26367 138.62695 C 122.11459 138.12617 124.30458 136.10117 126.12891 134.12695 C 128.43973 131.62629 129.46809 130.97964 130.11914 131.66797 L 131.10547 130.68164 C 130.50204 131.00633 130.84749 130.32169 131.91406 129.10742 C 136.30355 124.11007 143.46354 122.19529 149.04492 124.52734 C 151.0313 125.3573 151.91674 125.86737 151.98242 126.33984 L 155.17188 126.33984 C 155.07495 125.74203 155.11169 124.84573 155.21094 123.48438 C 155.60444 118.08651 153.50127 116.25226 146.46289 115.84961 C 141.2182 115.54957 140.94929 115.38999 138.4707 111.14258 C 134.74899 104.76491 131.80265 102.76384 125.41797 102.65234 z "
+       transform="translate(-2.415252,-6.0381356)"
+       id="path4144"
+       inkscape:export-xdpi="300.05093"
+       inkscape:export-ydpi="300.05093" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.09869361;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 230.38027,277.25564 c 0,19.68456 -15.95749,35.64205 -35.64205,35.64205 -19.68457,0 -32.54947,-35.64205 -96.742725,-35.64205 -64.193256,0 -77.058164,35.64205 -96.7427253,35.64205 -19.6845617,0 -35.6420527,-15.95749 -35.6420557,-35.64205 C -34.389289,257.57107 1.2527686,243.53 1.2527697,141.47637 1.2527708,39.422747 -34.389286,25.381673 -34.389286,5.6971086 c 0,-19.6845636 15.957492,-35.6420556 35.6420557,-35.6420556 19.6845633,0 32.5494713,35.6420566 96.7427253,35.6420556 64.193245,-1e-6 77.058155,-35.6420586 96.742725,-35.6420556 19.68456,3e-6 35.64205,15.957494 35.64205,35.6420556 0,19.6845614 -35.64205,33.7256354 -35.64205,135.7792614 0,102.05363 35.64205,116.0947 35.64205,135.77927 z"
+       id="path4733-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssssss"
+       inkscape:export-xdpi="300.05093"
+       inkscape:export-ydpi="300.05093" />
+  </g>
+</svg>
