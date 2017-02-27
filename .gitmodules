@@ -4,3 +4,6 @@
 [submodule "Altium/AltiumDesigner_PcbLibrary"]
 	path = Altium/AltiumDesigner_PcbLibrary
 	url = https://github.com/KitSprout/AltiumDesigner_PcbLibrary
+[submodule "Altium/Altium_mfmisclib"]
+	path = Altium/Altium_mfmisclib
+	url = https://github.com/mikef5410/Altium_mfmisclib.git
