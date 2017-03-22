@@ -7,3 +7,6 @@
 [submodule "Altium/Altium_mfmisclib"]
 	path = Altium/Altium_mfmisclib
 	url = https://github.com/mikef5410/Altium_mfmisclib.git
+[submodule "Altium/Altium-Library"]
+	path = Altium/Altium-Library
+	url = https://github.com/issus/altium-library.git
