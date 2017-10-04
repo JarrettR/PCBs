@@ -1,12 +1,12 @@
-[submodule "Altium/scripts-libraries"]
-	path = Altium/scripts-libraries
+[submodule "0-Altium/scripts-libraries"]
+	path = 0-Altium/scripts-libraries
 	url = https://github.com/altium-designer-addons/scripts-libraries
-[submodule "Altium/AltiumDesigner_PcbLibrary"]
-	path = Altium/AltiumDesigner_PcbLibrary
+[submodule "0-Altium/AltiumDesigner_PcbLibrary"]
+	path = 0-Altium/AltiumDesigner_PcbLibrary
 	url = https://github.com/KitSprout/AltiumDesigner_PcbLibrary
-[submodule "Altium/Altium_mfmisclib"]
-	path = Altium/Altium_mfmisclib
+[submodule "0-Altium/Altium_mfmisclib"]
+	path = 0-Altium/Altium_mfmisclib
 	url = https://github.com/mikef5410/Altium_mfmisclib.git
-[submodule "Altium/Altium-Library"]
-	path = Altium/Altium-Library
+[submodule "0-Altium/Altium-Library"]
+	path = 0-Altium/Altium-Library
 	url = https://github.com/issus/altium-library.git
