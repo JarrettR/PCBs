@@ -1,0 +1,11 @@
+Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Capacitance,Voltage,Is Generic,Symbol Type,Mouser Part Number,Digikey Part Number,Mounting Type,Verified Pad Assignment,Temperature Range Low,Verified Attributes,Is Connector,Is Male,Digikey Description,Verified Geometry,Verified Pin Names,Temperature Range High,Centroid Not Specified,Digikey,Inductance,Resistance
+C1,Generic Capacitor (Non-Polarized) (10uF),Generic,Capacitor (10uF),,0805 (2012 metric),1,10uF,16v,true,Capacitor,,,,,,,,,,,,,,,,
+C2,Generic Capacitor (Non-Polarized) (2e-11F),Generic,Capacitor (2e-11F),,0603 (1608 metric),0,2e-11F,16v,true,Capacitor,,,,,,,,,,,,,,,,
+C4 C3,Generic Capacitor (Non-Polarized) (1e-05F),Generic,Capacitor (1e-05F),,0805 (2012 metric),2,1e-05F,16v,true,Capacitor,,,,,,,,,,,,,,,,
+J1,2.54MM PIN HEADER,Wurth,61300311121,,HDR03,1,,,,,710-61300311121,732-5316-ND,Surface Mount,true,-40°C,true,yes,yes,"3 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold",true,true,+105°C,No,,,
+L1,Generic Inductor (4.7e-06H),Generic,Inductor (4.7e-06H),,0805 (2012 metric),1,,,true,Inductor,,,,,,,,,,,,,,490-7782-1-ND,4.7e-06H,
+R1,Generic Resistor (487000),Generic,Resistor (487000),,0603 (1608 metric),1,,,true,Resistor,,,,,,,,,,,,,,,,487000
+R2,Generic Resistor (87000),Generic,Resistor (87000),,0603 (1608 metric),1,,,true,Resistor,,,,,,,,,,,,,,,,87000
+R3,Generic Resistor (12000),Generic,Resistor (12000),,0603 (1608 metric),1,,,true,Resistor,,,,,,,,,,,,,,,,12000
+R4,Generic Resistor (10000),Generic,Resistor (10000),,0603 (1608 metric),0,,,true,Resistor,,,,,,,,,,,,,,,,10000
+U2,IC REG BUCK BST ADJ 0.8A 10WDFN,Richtek USA Inc.,RT6150AGQW,,WDFN-10L 3x3,1,,,,,,,,,,,,,,,,,No,,,

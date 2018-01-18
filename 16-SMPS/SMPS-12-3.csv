@@ -1,0 +1,9 @@
+Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Capacitance,Voltage,Is Generic,Symbol Type,Mount,Number Of Rows,Number Of Pins,Pitch,Inductance,Resistance,Mouser Part Number,Digikey Description,Verified Geometry,Verified Pad Assignment,Temperature Range Low,Verified Attributes,Digikey Part Number,Recommended Land Pattern Url,Verified Pin Names,Temperature Range High,Centroid Not Specified
+C2,Generic Capacitor (Non-Polarized) (1e-08F),Generic,Capacitor (1e-08F),,0603 (1608 metric),1,1e-08F,16v,true,Capacitor,,,,,,,,,,,,,,,,,
+C3 C1,Generic Capacitor (Non-Polarized) (10uF),Generic,Capacitor (10uF),,0805 (2012 metric),2,10uF,16v,true,Capacitor,,,,,,,,,,,,,,,,,
+D1,Generic Diode,Generic,Diode,,"0603 (1608 metric), polarized",1,,,true,Diode,,,,,,,,,,,,,,,,,
+J1,"3 pin Header, 0.1"" / 2.54mm Pitch, Through-hole, Generic",Generic,3 Pin Header,,,1,,,,,Through-hole,1,3,"0.1"" / 2.54mm",,,,,,,,,,,,,
+L1,Generic Inductor (4.7e-06H),Generic,Inductor (4.7e-06H),,0805 (2012 metric),1,,,true,Inductor,,,,,4.7e-06H,,,,,,,,,,,,
+R1,Generic Resistor (49900),Generic,Resistor (49900),,0603 (1608 metric),1,,,true,Resistor,,,,,,49900,,,,,,,,,,,
+R2,Generic Resistor (16300),Generic,Resistor (16300),,0603 (1608 metric),1,,,true,Resistor,,,,,,16300,,,,,,,,,,,
+U1,"1.4MHz, 1.5A ASYNCHRONOUS DC-DC BUCK CONVERTER AP3211",Diodes,AP3211KTR-G1,,SOT26,1,,15V,,,,,,,,,621-AP3211KTR-G1,IC REG BUCK ADJ 1.5A SOT26,true,true,-40°C,true,AP3211KTR-G1DICT-ND,https://www.diodes.com/assets/Package-Files/SOT26-SC74R.pdf,true,+85°C,No
