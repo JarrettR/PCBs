@@ -15,22 +15,22 @@ The end takeaway is that these circuits are _drawn_, not engineered.
 
 SVG Output:
 
-![SVG layout](/build/shallow.png)
+![SVG layout](build/shallow.png)
 
 
 [OSHPark](https://oshpark.com) gerber viewer:
 
-![OSHPark](/build/oshpark.png)
+![OSHPark](build/oshpark.png)
 
 
 Physical board:
 
-![Physical](/build/physical.png)
+![Physical](build/physical.png)
 
 
 Assembled:
 
-![Assembled](/build/assembled.png)
+![Assembled](build/assembled.png)
  
  
 
