@@ -1,6 +1,6 @@
 ## Shallow
 
-A nautilus-themed PCB create in [PCBmodE](https://github.com/boldport/pcbmode)
+A nautilus-themed PCB created in [PCBmodE](https://github.com/boldport/pcbmode)
 
 ### The hook
 
