@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "1.1mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.1mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "Jarrett Rainier\njrainimo.com\nShallow Rev 1\nMay 2018"
+        }
+      ]
+    }
+  }  
+}

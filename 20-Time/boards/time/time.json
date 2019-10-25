@@ -1,0 +1,217 @@
+{
+  "components": {
+  },
+  "config": {
+    "name": "Time",
+    "no-docs": false,
+    "no-drill-index": false,
+    "no-flashes": false,
+    "no-layer-index": false,
+    "rev": "first",
+    "style-layout": "default",
+    "units": "mm"
+  },
+  "distances": {
+    "from-pour-to": {
+      "drill": -0.1,
+      "outline": 0.4,
+      "pad": -0.1,
+      "route": 0.25
+    },
+    "soldermask": {
+      "circle-buffer": 0.05,
+      "path-scale": 1.05,
+      "rect-buffer": 0.05
+    },
+    "solderpaste": {
+      "circle-buffer": -0.1,
+      "path-scale": 0.9,
+      "rect-buffer": -0.1
+    }
+  },
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        49.490383,
+        17.206889
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Board details:\nName: Time\nRevision: first\nDescription: A time-sensitive experiment\nLicense: MIT\nDesigner: Jarrett Rainier, jrainimo.com"
+    },
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        49.693579,
+        4.7228886
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, purple\nSurface finish: ENIG"
+    },
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.2mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.2mm",
+      "location": [
+        45.883588,
+        -5.7401114
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com"
+    }
+  },
+  "drill-index": {
+    "location": [
+      33.762299,
+      -11.572111
+    ]
+  },
+  "drills": {},
+  "files": {
+    "routing-data": "time_routing.json",
+    "routing-svg": "time.svg"
+  },
+  "gerber": {
+    "decimals": 6,
+    "digits": 6,
+    "min-segment-length": 0.05,
+    "steps-per-segment": 100
+  },
+  "layer-control": {
+    "assembly": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "conductor": {
+      "hide": false,
+      "lock": false,
+      "pads": {
+        "hide": false,
+        "lock": false,
+        "place": true
+      },
+      "place": true,
+      "pours": {
+        "hide": false,
+        "lock": true,
+        "place": true
+      },
+      "routing": {
+        "hide": false,
+        "lock": false,
+        "place": true
+      }
+    },
+    "dimensions": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "documentation": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "drills": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "origin": {
+      "hide": false,
+      "lock": true,
+      "place": false
+    },
+    "outline": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "placement": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "silkscreen": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "soldermask": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "solderpaste": {
+      "hide": true,
+      "lock": true,
+      "place": false
+    }
+  },
+  "outline": {
+    "shape": {
+      "height": 36,
+      "radii": {
+        "bl": 3,
+        "br": 3,
+        "tl": 3,
+        "tr": 3
+      },
+      "type": "path",
+      "value": "m 88.918207,193.94594 c 0,2.06669 -0.418847,4.03556 -1.176285,5.82635 -0.757438,1.79078 -1.853468,3.40348 -3.207834,4.75785 -1.354366,1.35437 -2.967069,2.4504 -4.757853,3.20784 -1.790785,0.75743 -3.759651,1.17628 -5.826345,1.17628 -2.066694,0 -4.03556,-0.41885 -5.826345,-1.17628 -1.790784,-0.75744 -3.403487,-1.85347 -4.757853,-3.20784 -1.354366,-1.35437 -2.450396,-2.96707 -3.207834,-4.75785 -0.757438,-1.79079 -1.176285,-3.75966 -1.176285,-5.82635 0,-2.06669 0.418846,-4.03556 1.176284,-5.82635 0.757438,-1.79078 1.853467,-3.40348 3.207833,-4.75785 1.354367,-1.35437 2.96707,-2.4504 4.757855,-3.20784 1.790785,-0.75743 3.759651,-1.17628 5.826345,-1.17628 2.066694,0 4.03556,0.41885 5.826345,1.17628 1.790785,0.75744 3.403488,1.85347 4.757855,3.20784 1.354366,1.35437 2.450395,2.96707 3.207833,4.75785 0.757438,1.79079 1.176284,3.75966 1.176284,5.82635 z",
+      "width": 36
+    }
+  },
+  "shapes": {
+    "SP12": {
+      "footprint": "spiral",
+      "layer": "top",
+      "location": [
+        0,
+        10
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "SP6": {
+      "footprint": "spiral",
+      "layer": "top",
+      "location": [
+        0,
+        -10
+      ],
+      "rotate": 0,
+      "show": true
+    }
+  },
+  "soldermask": {
+    "circle-buffer": 0.05,
+    "path-scale": 1.05,
+    "rect-buffer": 0.05
+  },
+  "solderpaste": {
+    "circle-buffer": -0.1,
+    "path-scale": 0.9,
+    "rect-buffer": -0.1
+  },
+  "stackup": {
+    "name": "two-layer"
+  },
+  "vias": {
+    "default-via": "VIA"
+  }
+}

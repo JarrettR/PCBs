@@ -1,0 +1,48 @@
+{
+  "routes": {
+    "bottom": {
+    },
+    "top": {
+    }
+  },
+  "vias": {
+    "12d213e32": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      },
+      "footprint": "via",
+      "layer": "bottom",
+      "location": [
+        0,
+        10
+      ],
+      "rotate": 0,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "ef52a5caa": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      },
+      "footprint": "via",
+      "layer": "bottom",
+      "location": [
+        0.5,
+        10.5
+      ],
+      "rotate": 0,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }
+}
