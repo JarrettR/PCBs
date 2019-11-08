@@ -15,8 +15,8 @@
       "footprint": "via",
       "layer": "bottom",
       "location": [
-        0,
-        10
+        -0.2,
+        15.4
       ],
       "rotate": 0,
       "silkscreen": {
@@ -35,7 +35,7 @@
       "layer": "bottom",
       "location": [
         0.5,
-        10.5
+        14.9
       ],
       "rotate": 0,
       "silkscreen": {
