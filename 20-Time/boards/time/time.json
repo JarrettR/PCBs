@@ -245,76 +245,6 @@
       ],
       "rotate": 60,
       "show": true
-    },
-    "SPR0": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        0,
-        0
-      ],
-      "rotate": 15,
-      "show": true
-    },
-    "SPR10": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        -12.99038,
-        7.5
-      ],
-      "rotate": 135,
-      "show": true
-    },
-    "SPR12": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        0,
-        15
-      ],
-      "rotate": 205,
-      "show": true
-    },
-    "SPR2": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        12.99038,
-        7.5
-      ],
-      "rotate": -105,
-      "show": true
-    },
-    "SPR4": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        12.99038,
-        -7.5
-      ],
-      "rotate": -45,
-      "show": true
-    },
-    "SPR6": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        0,
-        -15
-      ],
-      "rotate": 15,
-      "show": true
-    },
-    "SPR8": {
-      "footprint": "spiral",
-      "layer": "bottom",
-      "location": [
-        -12.99038,
-        -7.5
-      ],
-      "rotate": 75,
-      "show": true
     }
   },
   "soldermask": {
@@ -328,7 +258,7 @@
     "rect-buffer": -0.1
   },
   "stackup": {
-    "name": "two-layer"
+    "name": "four-layer"
   },
   "vias": {
     "default-via": "VIA"
