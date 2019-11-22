@@ -1,0 +1,80 @@
+{
+    "layout": {},
+    "meta": "20V Nch+Pch Small Signal MOSFET",
+    "pads": {
+        "3cb27e9e86b0f76817ca1678280f4592": {
+            "shapes": [
+                {
+                    "type": "rect",
+                    "width": 0.3,
+                    "height": 0.5,
+                    "layers": [
+                        "top"
+                    ]
+                }
+            ]
+        }
+    },
+    "pins": {
+        "0": {
+            "layout": {
+                "location": [
+                    0.749999,
+                    0.4
+                ],
+                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "rotate": 270.0
+            }
+        },
+        "1": {
+            "layout": {
+                "location": [
+                    0.749999,
+                    -2e-06
+                ],
+                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "rotate": 270.0
+            }
+        },
+        "2": {
+            "layout": {
+                "location": [
+                    0.749999,
+                    -0.400001
+                ],
+                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "rotate": 270.0
+            }
+        },
+        "3": {
+            "layout": {
+                "location": [
+                    -0.750001,
+                    0.4
+                ],
+                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "rotate": 270.0
+            }
+        },
+        "4": {
+            "layout": {
+                "location": [
+                    -0.750001,
+                    -2e-06
+                ],
+                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "rotate": 270.0
+            }
+        },
+        "5": {
+            "layout": {
+                "location": [
+                    -0.750001,
+                    -0.400001
+                ],
+                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "rotate": 270.0
+            }
+        }
+    }
+}

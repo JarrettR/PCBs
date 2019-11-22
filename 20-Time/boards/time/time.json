@@ -106,7 +106,7 @@
       "place": true,
       "pours": {
         "hide": false,
-        "lock": true,
+        "lock": false,
         "place": true
       },
       "routing": {
@@ -244,6 +244,156 @@
         -7.5
       ],
       "rotate": 60,
+      "show": true
+    },
+    "WATERMARK": {
+      "footprint": "watermark",
+      "layer": "bottom",
+      "location": [
+        0,
+        -20
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet0l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -2.827913,
+        -5.266478
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet0r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        2.827913,
+        -5.266478
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet12l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        5,
+        15
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet12r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -5,
+        15
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet2l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        15,
+        4
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet2r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        10,
+        12
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet4l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        10,
+        -12
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet4r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        15,
+        -4
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet6l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -5,
+        -15
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet6r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        5,
+        -15
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet8l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -15,
+        -4
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet8r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -10,
+        -12
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet10r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -15,
+        4
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet10l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -10,
+        12
+      ],
+      "rotate": 0,
       "show": true
     }
   },

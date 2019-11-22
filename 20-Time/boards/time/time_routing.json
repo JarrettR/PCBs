@@ -1,32 +1,32 @@
 {
   "routes": {
     "bottom": {
-      "06a5c8523": {
-        "stroke-width": 0.45,
+      "368d05897": {
+        "stroke-width": 0.127,
         "style": "stroke",
         "type": "path",
         "value": "M -8.141561,3.308004 C -9.2735751,0.49078016 -8.706721,-1.941644 -8.8234206,-4.1765076"
       }
     },
     "internal-1": {
-      "06a8523": {
-        "stroke-width": 0.45,
+      "368d05897": {
+        "stroke-width": 0.127,
         "style": "stroke",
         "type": "path",
         "value": "M -8.141561,3.308004 C -9.2735751,0.49078016 -8.706721,-1.941644 -8.8234206,-4.1765076"
       }
     },
     "internal-2": {
-      "06a8523": {
-        "stroke-width": 0.45,
+      "368d05897": {
+        "stroke-width": 0.127,
         "style": "stroke",
         "type": "path",
         "value": "M -8.141561,3.308004 C -9.2735751,0.49078016 -8.706721,-1.941644 -8.8234206,-4.1765076"
       }
     },
     "top": {
-      "06a8523": {
-        "stroke-width": 0.45,
+      "368d05897": {
+        "stroke-width": 0.127,
         "style": "stroke",
         "type": "path",
         "value": "M -8.141561,3.308004 C -9.2735751,0.49078016 -8.706721,-1.941644 -8.8234206,-4.1765076"
@@ -205,25 +205,6 @@
         }
       }
     },
-    "27b3904a8": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      },
-      "footprint": "via",
-      "layer": "bottom",
-      "location": [
-        0.032504,
-        3.097094
-      ],
-      "rotate": 0,
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
     "41394de46": {
       "assembly": {
         "refdef": {
@@ -273,6 +254,25 @@
       "location": [
         13.251216,
         7.084346
+      ],
+      "rotate": 0,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "4af949521": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      },
+      "footprint": "via",
+      "layer": "bottom",
+      "location": [
+        0.032504,
+        3.097094
       ],
       "rotate": 0,
       "silkscreen": {
