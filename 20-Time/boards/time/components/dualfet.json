@@ -1,8 +1,53 @@
 {
-    "layout": {},
+    "layout": {
+        "silkscreen":
+        {
+          "shapes":
+          [
+            {
+              "type": "path",
+              "value": "m 0.4,0.9 h -0.8",
+              "layers": ["top"],
+              "location": [0,0.8]   
+            },
+            {
+              "type": "path",
+              "value": "m 0.4,0.9 h -0.8",
+              "layers": ["top"],
+              "location": [0,-0.8]   
+            },
+            {
+              "type": "path",
+              "layers": ["top"],
+              "value": "m 4.539474,-13.49717 c 0.055229,0 0.1,-0.04477 0.1,-0.1 0,-0.05523 -0.044771,-0.1 -0.1,-0.1 -0.055229,0 -0.1,0.04477 -0.1,0.1 0,0.05523 0.044772,0.1 0.1,0.1 z",
+              "style": "fill",
+              "location": [-1.0,1]          
+            }
+          ]
+        },
+        "assembly":
+        {
+          "shapes":
+          [
+            {
+              "type": "rect",
+              "layers": ["top"],
+              "width": 0.92,
+              "height": 1.2
+            },
+            { 
+              "type": "circle",
+              "layers": ["top"],
+              "style": "fill",
+              "diameter": 0.2,
+              "location": [-0.3,0.4]
+            }
+          ]
+        }
+    },
     "meta": "20V Nch+Pch Small Signal MOSFET",
     "pads": {
-        "3cb27e9e86b0f76817ca1678280f4592": {
+        "pad": {
             "shapes": [
                 {
                     "type": "rect",
@@ -22,7 +67,7 @@
                     0.749999,
                     0.4
                 ],
-                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "pad": "pad",
                 "rotate": 270.0
             }
         },
@@ -32,7 +77,7 @@
                     0.749999,
                     -2e-06
                 ],
-                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "pad": "pad",
                 "rotate": 270.0
             }
         },
@@ -42,7 +87,7 @@
                     0.749999,
                     -0.400001
                 ],
-                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "pad": "pad",
                 "rotate": 270.0
             }
         },
@@ -52,7 +97,7 @@
                     -0.750001,
                     0.4
                 ],
-                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "pad": "pad",
                 "rotate": 270.0
             }
         },
@@ -62,7 +107,7 @@
                     -0.750001,
                     -2e-06
                 ],
-                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "pad": "pad",
                 "rotate": 270.0
             }
         },
@@ -72,7 +117,7 @@
                     -0.750001,
                     -0.400001
                 ],
-                "pad": "3cb27e9e86b0f76817ca1678280f4592",
+                "pad": "pad",
                 "rotate": 270.0
             }
         }

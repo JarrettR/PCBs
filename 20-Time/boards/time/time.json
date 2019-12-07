@@ -15,7 +15,7 @@
       "drill": -0.1,
       "outline": 0.4,
       "pad": -0.1,
-      "route": 0.25
+      "route": -0.1
     },
     "soldermask": {
       "circle-buffer": 0.05,
