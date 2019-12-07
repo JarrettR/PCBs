@@ -276,6 +276,26 @@
       "rotate": 0,
       "show": true
     },
+    "dfet10l": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -10,
+        12
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "dfet10r": {
+      "footprint": "dualfet",
+      "layer": "top",
+      "location": [
+        -15,
+        4
+      ],
+      "rotate": 0,
+      "show": true
+    },
     "dfet12l": {
       "footprint": "dualfet",
       "layer": "top",
@@ -372,26 +392,6 @@
       "location": [
         -10,
         -12
-      ],
-      "rotate": 0,
-      "show": true
-    },
-    "dfet10r": {
-      "footprint": "dualfet",
-      "layer": "top",
-      "location": [
-        -15,
-        4
-      ],
-      "rotate": 0,
-      "show": true
-    },
-    "dfet10l": {
-      "footprint": "dualfet",
-      "layer": "top",
-      "location": [
-        -10,
-        12
       ],
       "rotate": 0,
       "show": true
