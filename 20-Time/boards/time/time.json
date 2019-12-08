@@ -91,7 +91,7 @@
   },
   "layer-control": {
     "assembly": {
-      "hide": false,
+      "hide": true,
       "lock": false,
       "place": true
     },
@@ -176,6 +176,66 @@
     }
   },
   "shapes": {
+    "SOLDER12-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -0.7844016847,
+        9.961946981
+      ],
+      "rotate": 310,
+      "show": true
+    },
+    "SOLDER12-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -3.803564356,
+        9.06307787
+      ],
+      "rotate": 290,
+      "show": true
+    },
+    "SOLDER12-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -2.329371406,
+        9.659258263
+      ],
+      "rotate": 300,
+      "show": true
+    },
+    "SOLDER12-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        0.7844016847,
+        9.961946981
+      ],
+      "rotate": -40,
+      "show": true
+    },
+    "SOLDER12-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        2.329371406,
+        9.659258263
+      ],
+      "rotate": -30,
+      "show": true
+    },
+    "SOLDER12-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        3.803564356,
+        9.06307787
+      ],
+      "rotate": -30,
+      "show": true
+    },
     "SP0": {
       "footprint": "spiral",
       "layer": "top",
@@ -301,9 +361,9 @@
       "layer": "top",
       "location": [
         5,
-        15
+        16
       ],
-      "rotate": 0,
+      "rotate": 30,
       "show": true
     },
     "dfet12r": {
@@ -311,9 +371,9 @@
       "layer": "top",
       "location": [
         -5,
-        15
+        16
       ],
-      "rotate": 0,
+      "rotate": 140.0,
       "show": true
     },
     "dfet2l": {
