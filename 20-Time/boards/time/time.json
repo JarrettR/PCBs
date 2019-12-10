@@ -176,6 +176,16 @@
     }
   },
   "shapes": {
+    "OUTER-RING": {
+      "footprint": "outerring",
+      "layer": "bottom",
+      "location": [
+        0,
+        14
+      ],
+      "rotate": 0,
+      "show": true
+    },
     "SOLDER12-LH": {
       "footprint": "solderpad",
       "layer": "top",
