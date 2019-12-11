@@ -1,6 +1,12 @@
 {
   "routes": {
     "bottom": {
+      "1fe49f82b": {
+        "stroke-width": 0.127,
+        "style": "stroke",
+        "type": "path",
+        "value": "m 0.52930961,-14.832047 c -0.0126049,-0.06056 0.0319106,-0.128833 0.0292024,-0.270955"
+      },
       "4b4bd82b1": {
         "stroke-width": 0.127,
         "style": "stroke",
@@ -14,20 +20,26 @@
         "style": "stroke",
         "type": "path",
         "value": "m -0.662786,-11.876309 c 0.0662085,-0.226869 0.29004972,-0.517202 0.722747,-0.480609"
-      }
-    },
-    "internal-2": {
-      "2b5e754fd": {
+      },
+      "2f6c09e14": {
         "stroke-width": 0.127,
         "style": "stroke",
         "type": "path",
-        "value": "M -0.558512,-14.896998 C -0.586212,-15.319843 -0.388494,-15.46778 -0.2,-15.5143"
-      },
+        "value": "m 0.48402439,-14.726382 c 0.0779655,-0.131007 0.0417074,-0.19089 0.0540942,-0.151875"
+      }
+    },
+    "internal-2": {
       "54afb2a33": {
         "stroke-width": 0.127,
         "style": "stroke",
         "type": "path",
         "value": "m -0.77664017,-11.847845 c 0.22899136,-0.153697 0.46016319,-0.480467 -0.18369208,-0.688978"
+      },
+      "8b008c936": {
+        "stroke-width": 0.127,
+        "style": "stroke",
+        "type": "path",
+        "value": "m -0.558512,-14.896998 c -0.0277,-0.422845 0.18620957,-0.35796 0.188531,-0.394417"
       }
     },
     "top": {
@@ -123,6 +135,25 @@
       "location": [
         -12.778205,
         7.901712
+      ],
+      "rotate": 0,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "08db91504": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      },
+      "footprint": "via",
+      "layer": "bottom",
+      "location": [
+        -0.369981,
+        15.177115
       ],
       "rotate": 0,
       "silkscreen": {
@@ -587,25 +618,6 @@
         }
       }
     },
-    "a895fe07f": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      },
-      "footprint": "via",
-      "layer": "bottom",
-      "location": [
-        -0.2,
-        15.4
-      ],
-      "rotate": 0,
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
     "b20c4bf76": {
       "assembly": {
         "refdef": {
@@ -625,6 +637,25 @@
         }
       }
     },
+    "b2ecfa718": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      },
+      "footprint": "via",
+      "layer": "bottom",
+      "location": [
+        0.454715,
+        14.910063
+      ],
+      "rotate": 0,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
     "b590bc457": {
       "assembly": {
         "refdef": {
@@ -636,25 +667,6 @@
       "location": [
         16.35179,
         7.99637
-      ],
-      "rotate": 0,
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
-    "bac95f74e": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      },
-      "footprint": "via",
-      "layer": "bottom",
-      "location": [
-        0.5,
-        14.9
       ],
       "rotate": 0,
       "silkscreen": {
