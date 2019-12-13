@@ -246,6 +246,306 @@
       "rotate": -30,
       "show": true
     },
+    "SOLDER2-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        5.735764364,
+        8.191520443
+      ],
+      "rotate": -10,
+      "show": true
+    },
+    "SOLDER2-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        7.071067812,
+        7.071067812
+      ],
+      "rotate": 0,
+      "show": true
+    },
+    "SOLDER2-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        8.191520443,
+        5.735764364
+      ],
+      "rotate": 10,
+      "show": true
+    },
+    "SOLDER2-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        9.06307787,
+        4.226182617
+      ],
+      "rotate": 20,
+      "show": true
+    },
+    "SOLDER2-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        9.659258263,
+        2.588190451
+      ],
+      "rotate": 30,
+      "show": true
+    },
+    "SOLDER2-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        9.961946981,
+        0.8715574275
+      ],
+      "rotate": 40,
+      "show": true
+    },
+    "SOLDER4-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        9.961946981,
+        -0.8715574275
+      ],
+      "rotate": 50,
+      "show": true
+    },
+    "SOLDER4-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        9.659258263,
+        -2.588190451
+      ],
+      "rotate": 60,
+      "show": true
+    },
+    "SOLDER4-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        9.06307787,
+        -4.226182617
+      ],
+      "rotate": 70,
+      "show": true
+    },
+    "SOLDER4-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        8.191520443,
+        -5.735764364
+      ],
+      "rotate": 80,
+      "show": true
+    },
+    "SOLDER4-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        7.071067812,
+        -7.071067812
+      ],
+      "rotate": 90,
+      "show": true
+    },
+    "SOLDER4-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        5.735764364,
+        -8.191520443
+      ],
+      "rotate": 100,
+      "show": true
+    },
+    "SOLDER6-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        4.226182617,
+        -9.06307787
+      ],
+      "rotate": 110,
+      "show": true
+    },
+    "SOLDER6-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        2.588190451,
+        -9.659258263
+      ],
+      "rotate": 120,
+      "show": true
+    },
+    "SOLDER6-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        0.8715574275,
+        -9.961946981
+      ],
+      "rotate": 130,
+      "show": true
+    },
+    "SOLDER6-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -0.8715574275,
+        -9.961946981
+      ],
+      "rotate": 140,
+      "show": true
+    },
+    "SOLDER6-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -2.588190451,
+        -9.659258263
+      ],
+      "rotate": 150,
+      "show": true
+    },
+    "SOLDER6-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -4.226182617,
+        -9.06307787
+      ],
+      "rotate": 160,
+      "show": true
+    },
+    "SOLDER8-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -5.735764364,
+        -8.191520443
+      ],
+      "rotate": 170,
+      "show": true
+    },
+    "SOLDER8-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -7.071067812,
+        -7.071067812
+      ],
+      "rotate": 180,
+      "show": true
+    },
+    "SOLDER8-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -8.191520443,
+        -5.735764364
+      ],
+      "rotate": 190,
+      "show": true
+    },
+    "SOLDER8-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.06307787,
+        -4.226182617
+      ],
+      "rotate": 200,
+      "show": true
+    },
+    "SOLDER8-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.659258263,
+        -2.588190451
+      ],
+      "rotate": 210,
+      "show": true
+    },
+    "SOLDER8-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.961946981,
+        -0.8715574275
+      ],
+      "rotate": 220,
+      "show": true
+    },
+    "SOLDER10-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.961946981,
+        0.8715574275
+      ],
+      "rotate": 230,
+      "show": true
+    },
+    "SOLDER10-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.659258263,
+        2.588190451
+      ],
+      "rotate": 240,
+      "show": true
+    },
+    "SOLDER10-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.06307787,
+        4.226182617
+      ],
+      "rotate": 250,
+      "show": true
+    },
+    "SOLDER10-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -8.191520443,
+        5.735764364
+      ],
+      "rotate": 260,
+      "show": true
+    },
+    "SOLDER10-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -7.071067812,
+        7.071067812
+      ],
+      "rotate": 270,
+      "show": true
+    },
+    "SOLDER10-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -5.735764364,
+        8.191520443
+      ],
+      "rotate": 280,
+      "show": true
+    },
     "SP0": {
       "footprint": "spiral",
       "layer": "top",
