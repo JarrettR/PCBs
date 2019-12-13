@@ -186,6 +186,66 @@
       "rotate": 0,
       "show": true
     },
+    "SOLDER10-LH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.961946981,
+        0.8715574275
+      ],
+      "rotate": 230,
+      "show": true
+    },
+    "SOLDER10-LL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.659258263,
+        2.588190451
+      ],
+      "rotate": 240,
+      "show": true
+    },
+    "SOLDER10-LV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -9.06307787,
+        4.226182617
+      ],
+      "rotate": 250,
+      "show": true
+    },
+    "SOLDER10-RH": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -8.191520443,
+        5.735764364
+      ],
+      "rotate": 260,
+      "show": true
+    },
+    "SOLDER10-RL": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -7.071067812,
+        7.071067812
+      ],
+      "rotate": 270,
+      "show": true
+    },
+    "SOLDER10-RV": {
+      "footprint": "solderpad",
+      "layer": "top",
+      "location": [
+        -5.735764364,
+        8.191520443
+      ],
+      "rotate": 280,
+      "show": true
+    },
     "SOLDER12-LH": {
       "footprint": "solderpad",
       "layer": "top",
@@ -486,66 +546,6 @@
       "rotate": 220,
       "show": true
     },
-    "SOLDER10-LH": {
-      "footprint": "solderpad",
-      "layer": "top",
-      "location": [
-        -9.961946981,
-        0.8715574275
-      ],
-      "rotate": 230,
-      "show": true
-    },
-    "SOLDER10-LL": {
-      "footprint": "solderpad",
-      "layer": "top",
-      "location": [
-        -9.659258263,
-        2.588190451
-      ],
-      "rotate": 240,
-      "show": true
-    },
-    "SOLDER10-LV": {
-      "footprint": "solderpad",
-      "layer": "top",
-      "location": [
-        -9.06307787,
-        4.226182617
-      ],
-      "rotate": 250,
-      "show": true
-    },
-    "SOLDER10-RH": {
-      "footprint": "solderpad",
-      "layer": "top",
-      "location": [
-        -8.191520443,
-        5.735764364
-      ],
-      "rotate": 260,
-      "show": true
-    },
-    "SOLDER10-RL": {
-      "footprint": "solderpad",
-      "layer": "top",
-      "location": [
-        -7.071067812,
-        7.071067812
-      ],
-      "rotate": 270,
-      "show": true
-    },
-    "SOLDER10-RV": {
-      "footprint": "solderpad",
-      "layer": "top",
-      "location": [
-        -5.735764364,
-        8.191520443
-      ],
-      "rotate": 280,
-      "show": true
-    },
     "SP0": {
       "footprint": "spiral",
       "layer": "top",
@@ -650,20 +650,20 @@
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        -10,
-        12
+        -11.380482,
+        12.341562
       ],
-      "rotate": 0,
+      "rotate": 330,
       "show": true
     },
     "dfet10r": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        -15,
-        4
+        -16.352018,
+        3.629974
       ],
-      "rotate": 0,
+      "rotate": 80,
       "show": true
     },
     "dfet12l": {
@@ -690,80 +690,80 @@
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        15,
-        4
+        16.36862,
+        3.637718
       ],
-      "rotate": 0,
+      "rotate": 90,
       "show": true
     },
     "dfet2r": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        10,
-        12
+        11.390619,
+        12.329285
       ],
-      "rotate": 0,
+      "rotate": 200,
       "show": true
     },
     "dfet4l": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        10,
-        -12
+        11.408874,
+        -12.301901
       ],
-      "rotate": 0,
+      "rotate": 150,
       "show": true
     },
     "dfet4r": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        15,
-        -4
+        16.36862,
+        -3.657845
       ],
-      "rotate": 0,
+      "rotate": 260,
       "show": true
     },
     "dfet6l": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        -5,
-        -15
+        -5.040254,
+        -16.006338
       ],
-      "rotate": 0,
+      "rotate": 210,
       "show": true
     },
     "dfet6r": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        5,
-        -15
+        4.919493,
+        -16.066718
       ],
-      "rotate": 0,
+      "rotate": 320,
       "show": true
     },
     "dfet8l": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        -15,
-        -4
+        -16.388747,
+        -3.677972
       ],
-      "rotate": 0,
+      "rotate": 270,
       "show": true
     },
     "dfet8r": {
       "footprint": "dualfet",
       "layer": "top",
       "location": [
-        -10,
-        -12
+        -11.408873,
+        -12.301901
       ],
-      "rotate": 0,
+      "rotate": 20,
       "show": true
     }
   },
