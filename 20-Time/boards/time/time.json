@@ -176,7 +176,7 @@
     }
   },
   "shapes": {
-    "OUTER-RING": {
+    "OUTER-RING12": {
       "footprint": "outerring",
       "layer": "bottom",
       "location": [
@@ -184,6 +184,56 @@
         14
       ],
       "rotate": 0,
+      "show": true
+    },
+    "OUTER-RING2": {
+      "footprint": "outerring",
+      "layer": "bottom",
+      "location": [
+        12.12435565,
+        7
+      ],
+      "rotate": 60,
+      "show": true
+    },
+    "OUTER-RING4": {
+      "footprint": "outerring",
+      "layer": "bottom",
+      "location": [
+        12.12435565,
+        -7
+      ],
+      "rotate": 120,
+      "show": true
+    },
+    "OUTER-RING6": {
+      "footprint": "outerring",
+      "layer": "bottom",
+      "location": [
+        0,
+        -14
+      ],
+      "rotate": 180,
+      "show": true
+    },
+    "OUTER-RING8": {
+      "footprint": "outerring",
+      "layer": "bottom",
+      "location": [
+        -12.12435565,
+        -7
+      ],
+      "rotate": 240,
+      "show": true
+    },
+    "OUTER-RING10": {
+      "footprint": "outerring",
+      "layer": "bottom",
+      "location": [
+        -12.12435565,
+        7
+      ],
+      "rotate": 300,
       "show": true
     },
     "SOLDER10-LH": {
