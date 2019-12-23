@@ -220,7 +220,7 @@
       "footprint": "outerring",
       "layer": "bottom",
       "location": [
-        -12.12435565,
+        -12.124356,
         7
       ],
       "rotate": 300,
@@ -240,7 +240,7 @@
       "footprint": "outerring",
       "layer": "bottom",
       "location": [
-        12.12435565,
+        12.124356,
         7
       ],
       "rotate": 60,
@@ -250,7 +250,7 @@
       "footprint": "outerring",
       "layer": "bottom",
       "location": [
-        12.12435565,
+        12.124356,
         -7
       ],
       "rotate": 120,
@@ -270,7 +270,7 @@
       "footprint": "outerring",
       "layer": "bottom",
       "location": [
-        -12.12435565,
+        -12.124356,
         -7
       ],
       "rotate": 240,
@@ -914,6 +914,16 @@
         -12.301901
       ],
       "rotate": 20,
+      "show": true
+    },
+    "rn": {
+      "footprint": "rn",
+      "layer": "bottom",
+      "location": [
+        0,
+        0
+      ],
+      "rotate": 0,
       "show": true
     }
   },
