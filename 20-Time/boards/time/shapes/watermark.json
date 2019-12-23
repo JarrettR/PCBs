@@ -7,9 +7,9 @@
       [
         {
           "font-family": "UbuntuMono-R-webfont", 
-          "font-size": "1.1mm", 
+          "font-size": "0.6mm", 
           "letter-spacing": "0mm", 
-          "line-height": "1.1mm", 
+          "line-height": "0.6mm", 
           "location": [
             0, 
             0
@@ -17,7 +17,7 @@
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 
-          "value": "Jarrett Rainier\njrainimo.com\nTime Rev 1\nNov 2019"
+          "value": "Jarrett Rainier\njrainimo.com\nTime Rev 1\nDec 2019"
         }
       ]
     }

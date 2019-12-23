@@ -768,10 +768,10 @@
     },
     "WATERMARK": {
       "footprint": "watermark",
-      "layer": "bottom",
+      "layer": "top",
       "location": [
-        0,
-        -20
+        -0.329415,
+        5.017331
       ],
       "rotate": 0,
       "show": true
